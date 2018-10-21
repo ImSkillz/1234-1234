@@ -18,5 +18,3 @@ if (message.content === '!spam') {
         }
       }
 });
-
-client.login("NDc0MzA1Njk4Nzg4ODAyNTcx.DqIqXw.16W5VhPmwVj3Hzru57qObreC_84");
